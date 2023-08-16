@@ -12,9 +12,17 @@
     padding: 5px 0;
 }
 .cabecalho-imagem {
-    width: 20%;
+    width: 15%;
 }
 .cabecalho-lista-item { 
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 40px;
+}
+
+.escola-imagem {
+    width: 16%;
+}
+
+.escola {
+    background-image: linear-gradient(#2E5790,#165C8B);
 }
