@@ -18,11 +18,30 @@
     display: inline-block;
     margin: 0 40px;
 }
-
 .escola-imagem {
-    width: 16%;
+    width: 10%;
 }
 
+.imagem-alunos{
+    width: 28%;
+}
 .escola {
-    background-image: linear-gradient(#2E5790,#165C8B);
+    background-image: linear-gradient(#2E5790,#4EBFE9);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+
+.escola-div-conteudo { 
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 15px 0;
+}
+
+.escola-texto-um {
+    padding: 25px 0;
 }
