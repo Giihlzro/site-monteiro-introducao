@@ -19,11 +19,13 @@
     margin: 0 40px;
 }
 .escola-imagem {
-    width: 10%;
+    position: bottom;
+    width: 50%;
 }
 
 .imagem-alunos{
-    width: 28%;
+    position: top;
+    width: 700px;
 }
 .escola {
     background-image: linear-gradient(#2E5790,#4EBFE9);
