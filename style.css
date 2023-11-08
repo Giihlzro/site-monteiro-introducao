@@ -18,22 +18,18 @@
     display: inline-block;
     margin: 0 40px;
 }
+
 .escola-imagem {
-    position: bottom;
-    width: 50%;
+    width: 18%;
 }
 
-.imagem-alunos{
-    position: top;
-    width: 700px;
-}
 .escola {
     background-image: linear-gradient(#2E5790,#4EBFE9);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 200px;
+    padding: 170px;
 }
 
 .escola-div-conteudo { 
